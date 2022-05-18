@@ -1,2 +1,2 @@
 [dev]
-172.31.31.86 ansible_user=k6roopeshgmail
+172.31.31.86 ansible_ssh_port=42006
